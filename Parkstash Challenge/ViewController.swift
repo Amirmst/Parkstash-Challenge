@@ -141,7 +141,7 @@ class ViewController: UIViewController, UISearchBarDelegate {
                 
                 let location = CLLocation(latitude: latitude!, longitude: longitude!)
                 self.searchedLocation = location
-                self.zoomInOnLocation(location: location, regionRadius: 8000)
+                self.zoomInOnLocation(location: location, regionRadius: 3000)
                 self.pinningButtons(isHidden: false)
             }
         }

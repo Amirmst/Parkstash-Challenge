@@ -281,7 +281,7 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ZNI-kk-4Rf" firstAttribute="trailing" secondItem="qSr-Ew-CVE" secondAttribute="trailing" constant="6" id="5Kj-XW-N8d"/>
-                            <constraint firstItem="v5H-TW-FNw" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="B5h-td-4xt"/>
+                            <constraint firstItem="v5H-TW-FNw" firstAttribute="bottom" secondItem="8bC-Xf-vdC" secondAttribute="bottom" id="B5h-td-4xt"/>
                             <constraint firstItem="v5H-TW-FNw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Ky0-Hl-Y19"/>
                             <constraint firstItem="yJM-4g-x0k" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="-290" id="Mo7-YE-y2Y"/>
                             <constraint firstItem="ZNI-kk-4Rf" firstAttribute="bottom" secondItem="qSr-Ew-CVE" secondAttribute="bottom" constant="53" id="Myd-7C-Vv3"/>
@@ -354,7 +354,7 @@
         <image name="Pin recent search" width="403" height="100"/>
         <image name="Profile Picture" width="111" height="111"/>
         <image name="Promos" width="37" height="37"/>
-        <image name="Search" width="18" height="17"/>
+        <image name="Search" width="26" height="26"/>
         <image name="Settings" width="37" height="37"/>
     </resources>
 </document>
